@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **64bitStore**
 
-- 🌱 I’m currently learning **AWS ,and AnimeJS**
+- 🌱 I’m currently learning **Angular ,and AnimeJS**
 
 - 👨‍💻 All of my projects are available at [https://jbond.me/](https://jbond.me/)
 
