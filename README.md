@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jborad988.github.io/](https://jborad988.github.io/jbond.github.io/)
 
-- 📫 How to reach me **jayborad368@gmail.com**
+- 📫 How to reach me **jayborad007@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
